@@ -261,7 +261,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   diceToThrow: {fileID: 8058249610206199207, guid: ca83b5840de63a3489ae6e835cf058d1, type: 3}
-  amountOfDice: 2
+  amountOfDice: 10
   throwForce: 5
   rollForce: 10
 --- !u!4 &426600450
